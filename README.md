@@ -1,4 +1,4 @@
-VeriFlow — Agentic Payment Trust Engine
+*VeriFlow — Agentic Payment Trust Engine*
 
 Verify the agent. Validate the intent. Control the payment. Preserve the evidence.
 
@@ -8,7 +8,7 @@ Verify the agent. Validate the intent. Control the payment. Preserve the evidenc
 
 
 
-Overview
+*Overview*
 
 VeriFlow is a policy-first trust and risk-control layer designed for agentic payments.
 
@@ -28,7 +28,8 @@ Every decision is classified as:
 
 VeriFlow also creates a cryptographically linked evidence trail for every decision, making autonomous payment actions easier to investigate and verify.
 
-The Problem
+
+*The Problem*
 
 Traditional payment security focuses primarily on whether a transaction appears fraudulent or risky.
 
@@ -100,7 +101,7 @@ VeriFlow introduces a dedicated control layer before payment execution:
                    ▼
           Evidence & Audit Trail
 
-Core design principle
+*Core design principle*
 
 AI can reason about risk. Deterministic controls retain financial authority.
 
